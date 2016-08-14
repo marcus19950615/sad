@@ -1,7 +1,6 @@
 {
   "name": "sad",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,4 @@
   "bugs": {
     "url": "https://github.com/marcus19950615/sad/issues"
   },
-  "homepage": "https://github.com/marcus19950615/sad#readme"
 }
