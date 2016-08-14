@@ -1,0 +1,7 @@
+{
+    "mongodbUrl": mongodb://dbuser:asd757959@ds153835.mlab.com:53835/andriodgcmpushdb,
+
+    "gcm": {
+        "apiKey": "AIzaSyBmXA8kToJS6MV_vQevN1-tAHon56H4_Vg"
+    }
+}
